@@ -1,2 +1,2 @@
-# single-cell-data-denoising-using-random-matrix-theory
-Single cell data denoising using L. Aparicio et. al.'s method
+# Single Cell Data Denoising using Random Matrix Theory
+Random Matrix Theory has proven effective in various denoising techniques. Here, we utilized the method introduced by L. Aparicio et. al. to reduce noise in single cell data, which is known for its high levels of noise. This method stands out due to its ability to consider the sparsity of the data matrix, resulting in superior denoising compared to other methods.
